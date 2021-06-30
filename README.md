@@ -1,10 +1,18 @@
-### Hi there 👋
+### Hello!
+
+- 👋 Hi, I'm Rashed! 
+- 🔭 I’m interested in web development, machine learning and data science
+- 🌱 I’m currently learning more about React and Javascript
+- 📫 Reach out me via email: rmr557@nyu.edu
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Bears, Beets, Battlestar Galatica!
 
 <!--
 **RashedRifat/RashedRifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 👋 Hi there 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
